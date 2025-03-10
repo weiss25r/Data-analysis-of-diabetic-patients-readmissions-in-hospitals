@@ -1,4 +1,4 @@
-# Predictive-analysis-of-diabetic-patients-readmissions-in-hospitals
+# Data analysis of-diabetic patients readmissions in hospitals
 
 Project done for the "Fundamental of Data Analysis" course at University of Catania.
 The aim of the project is to build a complete data analysis pipeline on a dataset.
